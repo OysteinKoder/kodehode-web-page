@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /.pnp
+/sanity_kodehode/node_modules
 .pnp.js
 /sanity_kodehode
 
