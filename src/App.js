@@ -8,10 +8,12 @@ import MediaPage from "./pages/MediaPage";
 import SuccessStoriesPage from "./pages/SuccessStoriesPage";
 import PartnersPage from "./pages/PartnersPage";
 import SyllabusPage from "./pages/SyllabusPage";
+import GlobalStyle from "./Globalstyle/Globalstyle";
 
 function App() {
   return (
     <>
+      <GlobalStyle />
       <NavBarHeader />
       <Routes>
         <Route path="*" element={<AboutPage />} />
