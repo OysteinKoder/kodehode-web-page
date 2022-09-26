@@ -5,6 +5,7 @@
 /.pnp
 /sanity_kodehode/node_modules
 .pnp.js
+/sanity_kodehode
 
 # testing
 /coverage
